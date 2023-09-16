@@ -1,4 +1,4 @@
-# Breast-cancer Segmentation
+# Breast-cancer Segmentation APP
 
 ## Description :
 
