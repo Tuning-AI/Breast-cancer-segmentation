@@ -10,7 +10,7 @@
 
 ## The project would involve the following steps:
 
-* Collecting a dataset of breast cancer images. This dataset should include images with a variety of tumor types and sizes, as well as images with different types of noise and artifacts.
+* Collecting a dataset of breast cancer images. This dataset should include images with a variety of tumor types and sizes, as well as images with different types of noise and artifacts.**https://huggingface.co/datasets/nielsr/breast-cancer**
 * Annotating the tumor regions in the images. This can be done manually by a medical expert, or using a semi-automatic annotation tool.
 * Fine-tuning a SAM model on the annotated dataset. This can be done using the segment_anything library.
 * Evaluating the performance of the trained model on a held-out test set. This is important to ensure that the model is able to generalize to new data.
